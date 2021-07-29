@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/07/28 20:31:03.998,=C:\Users\ferna\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/07/28 20:31:05.654,=C:\Users\ferna\OneDrive\Documentos\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/07/28 20:44:19.178,D:\Winni\Ahorcado\File1.cpp=C:\Users\ferna\OneDrive\Documentos\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/07/28 20:44:24.640,D:\Winni\Ahorcado\Project1PCH1.h=C:\Users\ferna\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/07/28 20:44:29.433,D:\Winni\Ahorcado\Project1.cbproj=C:\Users\ferna\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/07/28 20:44:41.996,D:\Winni\Ahorcado\ahorcado.cpp=D:\Winni\Ahorcado\File1.cpp</Transaction>
+    <Transaction>2021/07/28 20:44:56.624,D:\Winni\Ahorcado\ahorcadoPCH1.h=D:\Winni\Ahorcado\Project1PCH1.h</Transaction>
+    <Transaction>2021/07/28 20:44:56.637,D:\Winni\Ahorcado\ahorcado.cbproj=D:\Winni\Ahorcado\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
